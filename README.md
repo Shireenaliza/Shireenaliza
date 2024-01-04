@@ -1,7 +1,7 @@
 ### 🌱 I’m currently learning Tensorflow && OpenCV 
  Hi,i'm jus a lil katz 
  
- MEOW<img src="https://github.com/Shireenaliza/Shireenaliza/blob/main/pixel-cat.gif" width="150px">
+ /ᐠﹷ ‸ ﹷ ᐟ\ﾉ meow <img src="https://github.com/Shireenaliza/Shireenaliza/blob/main/pixel-cat.gif" width="150px">
 <!--
 **Shireenaliza/Shireenaliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
