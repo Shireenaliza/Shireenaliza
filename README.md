@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="https://github.com/Shireenaliza/Shireenaliza/blob/main/pixel-cat.gif' width=100%>
+### <img src="https://github.com/Shireenaliza/Shireenaliza/blob/main/pixel-cat.gif' width="300px">
 <!--
 **Shireenaliza/Shireenaliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
