@@ -1,5 +1,6 @@
-### 🌱 I’m currently learning Tensorflow && OpenCV 
- Hi,i'm jus a lil katz 
+### Hi,i'm jus a lil katz ㅤ/ᐠ - ˕ -マ
+🌱 I’m currently learning Tensorflow && OpenCV 
+
  
  ✧˖°<img src="https://github.com/Shireenaliza/Shireenaliza/blob/main/pixel-cat.gif" width="150px">✧˖°
 <!--
