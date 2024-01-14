@@ -1,4 +1,6 @@
-### Hi,i'm jus a lil katz ㅤ/ᐠ - ˕ -マ
+### 🚀 Second-year Computer Science student specializing in Artificial Intelligence and Machine Learning, with a fervent interest in space exploration. Seeking to apply advanced AI/ML expertise to contribute to astrophysics research. Committed to continuous learning and staying abreast of industry developments. Eager to collaborate with fellow professionals on cutting-edge projects. Let's connect and explore opportunities for mutual growth! 
+
+Hi,i'm jus a lil katz ㅤ/ᐠ - ˕ -マ
 
  ✧˖°<img src="https://github.com/Shireenaliza/Shireenaliza/blob/main/pixel-cat.gif" width="150px">✧˖°
  
