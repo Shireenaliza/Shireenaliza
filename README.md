@@ -2,7 +2,7 @@
 
  ✧˖°<img src="https://github.com/Shireenaliza/Shireenaliza/blob/main/pixel-cat.gif" width="150px">✧˖° 
 
-🚀 Second-year Computer Science student specializing in Artificial Intelligence and Machine Learning, with a fervent interest in space exploration. 
+🚀 2nd year CS student specializing in AI & ML, with an interest in space exploration. 
 Seeking to apply advanced AI/ML expertise to contribute to astrophysics research. 
 Committed to continuous learning and eager to collaborate with fellow professionals on cutting-edge projects.
 Let's connect and explore opportunities for mutual growth! 
