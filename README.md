@@ -4,8 +4,6 @@
 
 🚀 2nd year CS student specializing in AI & ML, with an interest in space exploration. 
 Seeking to apply advanced AI/ML expertise to contribute to astrophysics research. 
-Committed to continuous learning and eager to collaborate with fellow professionals on cutting-edge projects.
-Let's connect and explore opportunities for mutual growth! 
 
  
  🌱 I’m currently learning Tensorflow && OpenCV 
