@@ -2,11 +2,6 @@
 
  ✧˖°<img src="https://github.com/Shireenaliza/Shireenaliza/blob/main/pixel-cat.gif" width="150px">✧˖° 
 
-🚀 2nd year CS student specializing in AI & ML, with an interest in space exploration. 
-Seeking to apply advanced AI/ML expertise to contribute to astrophysics research. 
-
- 
- 🌱 I’m currently learning Tensorflow && OpenCV 
 <!--
 **Shireenaliza/Shireenaliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
